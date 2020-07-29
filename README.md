@@ -16,8 +16,11 @@ You can also find me on:
 
 <p align="center">
   <a href="https://lazaroibanez.me/"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/user.png" width="40" height="40" alt="Landing Page"></a>
+  &nbsp;
   <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
+  &nbsp;
   <a href="https://medium.com/theagilemanager"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/medium.png" width="40" height="40" alt="Medium"></a>
+  &nbsp;
   <a href="http://bit.ly/LazaroITwitter"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/twitter.png" width="40" height="40" alt="Twitter"></a>
 </p>
 
