@@ -14,6 +14,12 @@ You can also find me on:
 - <a href="https://medium.com/theagilemanager">Medium</a>
 - <a href="http://bit.ly/LazaroITwitter">Twitter</a>
 
+<p align="center">
+  <a href="https://lazaroibanez.me/"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/user.png" alt="Landing Page"></a>
+
+
+</p>
+
 <!--
 **LazaroIbanez/LazaroIbanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
