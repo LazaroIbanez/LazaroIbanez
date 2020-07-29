@@ -1,3 +1,5 @@
+![Lazaro Ibanez](https://github.com/LazaroIbanez/LazaroIbanez/blob/master/profile.png)
+
 ### LΛZΛRO IBΛNEZ
 
 #### Technical Product Manager
