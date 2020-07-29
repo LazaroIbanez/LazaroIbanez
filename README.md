@@ -8,19 +8,11 @@ Business-minded manager and technology-focused strategist transforming companies
 
 More than eleven years of experience in product management and engineering roles. Proven cross-functional leadership in taking products from concept to market, covering aspects of monetization, product design, customer development, and go-to-market with globally distributed teams. Analytical and technical hands-on manager with excellent written and verbal communication skills.
 
-You can also find me on:
-- <a href="https://lazaroibanez.me/">LΛZΛRO IBΛNEZ</a>
-- <a href="http://bit.ly/LazaroLinkedIn">LinkedIn</a>
-- <a href="https://medium.com/theagilemanager">Medium</a>
-- <a href="http://bit.ly/LazaroITwitter">Twitter</a>
-
 <p align="center">
-  <a href="https://lazaroibanez.me/"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/user.png" width="40" height="40" alt="Landing Page"></a>
-  &nbsp;
   <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="https://medium.com/theagilemanager"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/medium.png" width="40" height="40" alt="The Agile Manager"></a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="http://bit.ly/LazaroITwitter"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/twitter.png" width="40" height="40" alt="Twitter"></a>
 </p>
 
