@@ -1,4 +1,12 @@
-### Hi there 👋
+### LΛZΛRO IBΛNEZ
+
+#### Technical Product Manager
+
+#### Product Owner
+
+Business-minded manager and technology-focused strategist transforming companies and enabling users through the use of IT-based solutions.
+
+More than eleven years of experience in product management and engineering roles. Proven cross-functional leadership in taking products from concept to market, covering aspects of monetization, product design, customer development, and go-to-market with globally distributed teams. Analytical and technical hands-on manager with excellent written and verbal communication skills.
 
 <!--
 **LazaroIbanez/LazaroIbanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
