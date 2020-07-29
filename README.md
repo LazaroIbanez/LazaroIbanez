@@ -2,7 +2,7 @@
 
 #### <p align="center">Technical Product Manager</p>
 
-#### Product Owner
+#### <p align="center">Product Owner</p>
 
 Business-minded manager and technology-focused strategist transforming companies and enabling users through the use of IT-based solutions.
 
