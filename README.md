@@ -15,7 +15,7 @@ You can also find me on:
 - <a href="http://bit.ly/LazaroITwitter">Twitter</a>
 
 <p align="center">
-  <a href="https://lazaroibanez.me/"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/user.png" style="width:50px;height:50px;" alt="Landing Page"></a>
+  <a href="https://lazaroibanez.me/"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/user.png" width="50" height="50" alt="Landing Page"></a>
 
 
 </p>
