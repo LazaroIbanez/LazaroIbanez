@@ -1,5 +1,5 @@
-<p align="justify">
-## LΛZΛRO IBΛNEZ
+<p align="center">
+### LΛZΛRO IBΛNEZ
 
 ### Technical Product Manager
 
