@@ -1,4 +1,4 @@
-## <p align="center">LΛZΛRO IBΛNEZ</p>
+## <p align="center"><a href="https://lazaroibanez.me/">LΛZΛRO IBΛNEZ</a></p>
 
 ### <p align="center">Technical Product Manager</p>
 
@@ -9,7 +9,7 @@ Business-minded manager and technology-focused strategist transforming companies
 More than eleven years of experience in product management and engineering roles. Proven cross-functional leadership in taking products from concept to market, covering aspects of monetization, product design, customer development, and go-to-market with globally distributed teams. Analytical and technical hands-on manager with excellent written and verbal communication skills.
 
 You can also find me on:
-- <a href="https://lazaroibanez.me/">Landing Page</a>
+- <a href="https://lazaroibanez.me/">LΛZΛRO IBΛNEZ</a>
 - <a href="http://bit.ly/LazaroLinkedIn">LinkedIn</a>
 - <a href="https://medium.com/theagilemanager">Medium</a>
 - <a href="http://bit.ly/LazaroITwitter">Twitter</a>
