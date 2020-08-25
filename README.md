@@ -4,9 +4,7 @@
 
 ### <p align="center">Product Owner</p>
 
-Business-minded manager and technology-focused strategist transforming companies and enabling users through the use of IT-based solutions.
-
-More than eleven years of experience in product management and engineering roles. Proven cross-functional leadership in taking products from concept to market, covering aspects of monetization, product design, customer development, and go-to-market with globally distributed teams. Analytical and technical hands-on manager with excellent written and verbal communication skills.
+![image](https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/dino.gif)
 
 <p align="center">
   <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
