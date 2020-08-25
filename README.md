@@ -1,4 +1,4 @@
-## <p align="center"><a href="https://lazaroibanez.me/">LΛZΛRO IBΛNEZ</a></p>
+## <p align="center"><a href="https://lazaroibanez.me/">Lazaro Ibanez</a></p>
 
 ### <p align="center">Technical Product Manager</p>
 
