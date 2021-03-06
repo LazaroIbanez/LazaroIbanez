@@ -11,5 +11,5 @@
   &nbsp; &nbsp;
   <a href="http://bit.ly/LazaroITwitter"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/twitter.png" width="40" height="40" alt="Twitter"></a>
   &nbsp; &nbsp;
-  <a href="https://medium.com/theagilemanager"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/medium.png" width="40" height="40" alt="The Agile Manager"></a>
+  <a href="https://lazaroibanez.com"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/medium.png" width="40" height="40" alt="Lazaro Ibanez"></a>
 </p>
