@@ -1,6 +1,6 @@
 ## <p align="center"><a href="https://lazaroibanez.com/">Lazaro Ibanez</a></p>
 
-### <p align="center">Technical Product Manager & Product Owner</p>
+### <p align="center">Technical Product Owner</p>
 
 <!---
 ### <p align="center">Product Owner</p>
