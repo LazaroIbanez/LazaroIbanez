@@ -12,6 +12,4 @@
   <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
   &nbsp; &nbsp;
   <a href="http://bit.ly/LazaroITwitter"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/twitter.png" width="40" height="40" alt="Twitter"></a>
-  &nbsp; &nbsp;
-  <a href="https://lazaroibanez.com"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/medium.png" width="40" height="40" alt="Lazaro Ibanez"></a>
 </p>
