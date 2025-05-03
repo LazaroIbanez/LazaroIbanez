@@ -1,4 +1,4 @@
-## <p align="center"><a href="https://lazaroibanez.substack.com">Lazaro Ibanez</a></p>
+## <p align="center"><a href="https://bit.ly/LazaroSubstack">Lazaro Ibanez</a></p>
 
 <!---
 
