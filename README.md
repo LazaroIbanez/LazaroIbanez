@@ -16,13 +16,15 @@ Key achievements include:
 
 Recognized for building and scaling products valued at up to £100M, serving 1M+ daily users, and fostering cross-functional collaboration to drive business success.
 
+<!---
 <p align="center">
-  <!---
+  
   <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
-  -->
   <a href="https://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin1.png" width="40" height="40" alt="Linkedin icon created by Freepik - www.flaticon.com"></a>
   &nbsp;
+  
+  <a href="https://bit.ly/LazaroSubstack"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/web.png" width="40" height="40" alt="Web site icon created by riajulislam - www.flaticon.com"></a>
+   &nbsp;
   <a href="https://bit.ly/LazaroITwitter"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/X.png" width="41" height="41" alt="X icon created by Freepik - www.flaticon.com"></a>
-  &nbsp;
-  <a href="https://bit.ly/LazaroSubstack"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/web.png" width="39" height="39" alt="Web site icon created by riajulislam - www.flaticon.com"></a>
 </p>
+-->
