@@ -1,6 +1,6 @@
+<!---
 ## <p align="center"><a href="https://bit.ly/LazaroSubstack">Lazaro Ibanez</a></p>
 
-<!---
 ### <p align="center">Technical Product Owner</p>
 ### <p align="center">Product Owner</p>
 ![image](https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/dino.gif)
