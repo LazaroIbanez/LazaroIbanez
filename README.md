@@ -5,7 +5,14 @@
 ### <p align="center">Product Owner</p>
 ![image](https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/dino.gif)
 -->
-It is a simple task to make things complex, but a complex task to make them simple.
+<p align="center">
+Senior Technical Product Leader with 15+ years of experience in software product management across MedTech, Fintech, Banking, Automotive, and Consulting.
+
+Proven expertise in evaluating market opportunities, defining product roadmaps, and driving strategic execution, with a strong ability to bridge the gap between business and tech to achieve scalable growth.
+
+Recognized for building and scaling products valued at up to £100M, serving 1M+ daily users, and fostering cross-functional collaboration to drive business success.
+</p>
+
 <!---
 <p align="center">
   
