@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin_connect.svg" width="40" height="40" alt="LinkedIn"></a>
+  <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin_connect.svg" alt="LinkedIn"></a>
 </p>
