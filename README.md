@@ -3,9 +3,18 @@
 
 ---
 
-| **15+ Years** | **Up to £100M** | **1M+ Daily Users** |
-| :---: | :---: | :---: |
-| Software Product Management | Product Valuation Built & Scaled | Global Active Scale |
+<table align="center">
+  <tr>
+    <th align="center">15+ Years</th>
+    <th align="center">Up to £100M</th>
+    <th align="center">1M+ Daily Users</th>
+  </tr>
+  <tr>
+    <td align="center">Software Product Management</td>
+    <td align="center">Product Valuation Built &amp; Scaled</td>
+    <td align="center">Global Active Scale</td>
+  </tr>
+</table>
 
 ### Focus Areas
 - **Product Strategy & Roadmaps** — Evaluating market opportunities and turning vision into executable delivery plans.
