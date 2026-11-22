@@ -16,6 +16,8 @@
   </tr>
 </table>
 
+---
+
 ### Focus Areas
 - **Product Strategy & Roadmaps** — Evaluating market opportunities and turning vision into executable delivery plans.
 - **Business ↔ Tech Alignment** — Partnering closely with engineering, design, and leadership to drive scalable growth.
@@ -24,6 +26,8 @@
 ### Industries
 `MedTech` · `Fintech` · `Banking` · `Automotive` · `Consulting`
 
+---
+
 <p align="center">
-<a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin.png" width="40" height="40" alt="LinkedIn"></a>
+  <a href="http://bit.ly/LazaroLinkedIn"><img src="https://github.com/LazaroIbanez/LazaroIbanez/blob/master/images/linkedin_connect.svg" width="40" height="40" alt="LinkedIn"></a>
 </p>
